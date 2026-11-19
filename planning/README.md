@@ -7,7 +7,7 @@ Minimum par semaine : **4 posts + 5 stories**.
 1. **Le dimanche** : préparation de la semaine avec Tom (visuels + légendes), puis validation.
 2. Les visuels validés sont déposés dans `AAAA-MM-JJ/` (JPEG, post 1080×1080 ou 1080×1350, story 1080×1920).
 3. Le planning de la semaine est écrit dans `planning/AAAA-Sxx.json`, avec `"valide": true` une fois que Tom a dit « go ».
-4. Une tâche planifiée tourne chaque jour (vers 11h45 et 18h15, heure de Paris) : elle publie via Windsor.ai chaque publication validée dont l'heure est passée, puis la marque `"publie"` avec son `media_id`.
+4. Une tâche planifiée tourne chaque jour (vers 11h45 et 17h45, heure de Paris) : elle publie via Windsor.ai chaque publication validée dont l'heure est passée, puis la marque `"publie"` avec son `media_id`.
 
 Rien n'est publié si `"valide"` vaut `false`.
 
