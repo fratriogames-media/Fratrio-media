@@ -3,6 +3,9 @@
 ## Rythme (jusqu'au 24 décembre 2026)
 Minimum par semaine : **4 posts + 5 stories**.
 
+## Règle absolue (demandée par Tom)
+Ce dépôt est PUBLIC. Aucun visuel, aucune photo ni aucun brouillon n'y est déposé avant que Tom ait validé la semaine (« go » le dimanche). Les brouillons restent hors du dépôt jusqu'à cette validation.
+
 ## Fonctionnement
 1. **Le dimanche** : préparation de la semaine avec Tom (visuels + légendes), puis validation.
 2. Les visuels validés sont déposés dans `AAAA-MM-JJ/` (JPEG, post 1080×1080 ou 1080×1350, story 1080×1920).
