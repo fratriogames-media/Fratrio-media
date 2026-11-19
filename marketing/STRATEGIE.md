@@ -7,6 +7,9 @@
 Faire connaître le jeu et générer des commandes, sans paraître vendeur.
 Cible chiffrée au 24 décembre : **600 abonnés**, et des commandes en ligne chaque semaine.
 
+## Histoire de marque
+Un jeu créé entre frères, d'où le nom FRATRIO. C'est l'histoire à mettre en avant, et non un lieu : le jeu n'a pas été créé à Caen.
+
 ## Cible
 - 20–35 ans qui organisent des soirées entre potes (apéros, colocs, EVJF/EVG, week-ends).
 - Familles et couples qui cherchent une idée cadeau de Noël à moins de 20 €.

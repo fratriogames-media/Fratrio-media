@@ -14,14 +14,14 @@ Légende : 🟢 aucun tournage · 🟡 photo ou vidéo simple, mains seulement �
 - 🟢 **Reels animés** montés par Claude à partir des visuels : révélation de carte, texte à l'écran « POV : ta pote découvre qu'elle est la plus… », compte à rebours avant Noël.
 - 🟡 **Mains seulement** : mélanger les cartes, en retourner une, ouvrir la boîte (« unboxing »), poser 3 cartes sur une table de Noël. 10 secondes au téléphone suffisent.
 - 🟡 **Réactions autour d'une table** : filmer de dos ou le décor pendant une partie entre potes. Le son des rires suffit.
-- 🔴 **Plus tard, si Tom veut** : « Je suis Tom, j'ai créé ce jeu à Caen », l'histoire du jeu. C'est le format qui crée le plus de proximité.
+- 🔴 **Plus tard, si Tom veut** : « On l'a créé entre frères », l'histoire du jeu et de FRATRIO. C'est le format qui crée le plus de proximité.
 
 ## Leviers de croissance
 - **Concours de Noël** (validé) : lancement le 23 nov., tirage en direct au MoHo le 6 déc.
 - **Micro-influenceurs locaux** (Caen et Normandie : sorties, food, lifestyle, colocs, profs, animateurs) : on leur offre le jeu, ils tournent la vidéo. Ça règle la question du tournage. Claude rédige les messages, Tom les envoie.
 - **Posts en collaboration** (fonction Collab d'Instagram) avec le MoHo et les Espaces Culturels Leclerc : on apparaît sur leur compte.
 - **Contenu des clients** : pancartes à brandir aux stands, « Poste ta photo avec #quiestleplus », repartagée par Tom.
-- **Presse locale** (Ouest-France, Tendance Ouest, Liberté Caen) : un communiqué « Un jeu créé à Caen pour les soirées de Noël », rédigé par Claude.
+- **Presse locale** (Ouest-France, Tendance Ouest, Liberté Caen) : un communiqué « Des frères transforment leurs clashs de repas de famille en jeu », rédigé par Claude.
 - **Profil** : 3 posts épinglés (comment on joue / où l'acheter / le concours), des stories à la une (Le jeu, Où l'acheter, Événements, Avis), et un lien en bio direct vers le jeu.
 
 ## Temps forts du calendrier
