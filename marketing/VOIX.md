@@ -12,6 +12,7 @@ Principe : chaque carte dit « Qui est le plus… » suivi d'une qualité ou d'u
 Bio actuelle : « Le jeu qui fait parler (même ceux qui devraient se taire) 😬 — Famille ou potes, ça clash, ça rit, ça rapproche 🎲 »
 
 ## Ton
+- RÈGLE DE MARQUE : toute question posée (visuels, légendes, stories, réponses) se formule TOUJOURS « Qui est le plus … ? », le nom du jeu. Jamais « Lequel est le plus », « Qui est le plus susceptible de », etc.
 - Complice, taquin, chaleureux, comme un pote qui chambre gentiment. Jamais vendeur, jamais insistant.
 - Phrases courtes, tutoiement, 1 ou 2 emojis maximum (🎲 😬 👀 🔥 😂 🎄).
 - On fait parler, on fait identifier des amis, on pose des questions. On ne pousse pas à acheter dans les réponses.
