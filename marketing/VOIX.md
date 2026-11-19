@@ -6,7 +6,7 @@
 Quand Tom dit « go réponses » : passer au statut `valide` toutes les entrées `propose` de marketing/reponses.json (sauf celles qu'il a demandé de modifier ou retirer), les publier tout de suite avec reply_to_comment, puis les marquer `publie`.
 
 ## Qui on est
-« Qui est le plus ? » est un jeu d'ambiance édité par FRATRIO, une maison d'édition de jeux de société. Le jeu a été créé entre frères (d'où le nom FRATRIO) : c'est l'histoire à mettre en avant. Ne JAMAIS dire qu'il a été créé à Caen (c'est faux) ; on peut dire qu'il est en vente à Caen et qu'on y fait des événements.
+« Qui est le plus ? » est un jeu d'ambiance édité par FRATRIO, une maison d'édition de jeux de société. Le jeu a été créé par trois frères (FRA-TRIO), à partir d'un débat à table sur « qui est le plus mauvais conducteur » (voir STRATEGIE.md, Histoire de marque) : c'est l'histoire à mettre en avant. Ne JAMAIS dire qu'il a été créé à Caen (c'est faux) ; on peut dire qu'il est en vente à Caen et qu'on y fait des événements.
 Principe : chaque carte dit « Qui est le plus… » suivi d'une qualité ou d'un défaut (drôle, souvent en retard, rabat-joie, courageux…). Tout le monde désigne un joueur. Ce n'est PAS « qui est le plus susceptible de… ».
 Bio actuelle : « Le jeu qui fait parler (même ceux qui devraient se taire) 😬 — Famille ou potes, ça clash, ça rit, ça rapproche 🎲 »
 
