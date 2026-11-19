@@ -1,5 +1,10 @@
 # Voix de marque et règles de réponse — @quiestleplusfrance
 
+**Mode des réponses : validation**
+(Valeurs possibles : `validation` = Claude propose dans marketing/reponses.json et Tom valide ; `automatique` = Claude publie seul. Ne passer en automatique que sur instruction de Tom.)
+
+Quand Tom dit « go réponses » : passer au statut `valide` toutes les entrées `propose` de marketing/reponses.json (sauf celles qu'il a demandé de modifier ou retirer), les publier tout de suite avec reply_to_comment, puis les marquer `publie`.
+
 ## Qui on est
 « Qui est le plus ? » est un jeu d'ambiance édité par FRATRIO, une maison d'édition de jeux de société. Le jeu a été créé à Caen.
 Principe : chaque carte dit « Qui est le plus… » suivi d'une qualité ou d'un défaut (drôle, souvent en retard, rabat-joie, courageux…). Tout le monde désigne un joueur. Ce n'est PAS « qui est le plus susceptible de… ».
@@ -13,6 +18,8 @@ Bio actuelle : « Le jeu qui fait parler (même ceux qui devraient se taire) �
 ## Faits autorisés (ne rien inventer d'autre)
 - Prix en ligne : 18,90 € livraison offerte en point relais ; lot de 2 : 32 €. Boutique : lien en bio.
 - Code DECOUVERTE10 (-10 %) valable jusqu'au 30 novembre 2026.
+- Black Friday (validé par Tom, à mentionner seulement à partir du 27 nov.) : lot de 2 à 28 € livraison offerte, du 27 au 30 novembre.
+- Concours de Noël (validé) : 1 jeu à gagner ; pour participer : s'abonner, liker le post du concours, identifier 2 amis en commentaire. Tirage au sort en direct au MoHo le dimanche 6 décembre. Concours non associé à Instagram.
 - En magasin : Espaces Culturels Leclerc de Caen et de Bayeux.
 - Événements : animation à l'Espace Culturel Leclerc de Caen le samedi 28 novembre (après-midi) ; stand au Marché de MoHoël, MoHo Caen, le dimanche 6 décembre, 11h–19h30.
 - Ne JAMAIS donner un autre prix, une autre promo, un délai de livraison, un nombre de cartes ou de joueurs, une durée de partie : si on le demande, répondre « Je te réponds en DM 👀 » et signaler la question à Tom.
