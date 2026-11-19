@@ -13,7 +13,7 @@ Un jeu créé entre frères, d'où le nom FRATRIO. C'est l'histoire à mettre en
 Version de Tom : ils sont **trois frères** (FRA-TRIO). Tout est parti d'un débat à table : « Qui est le plus mauvais conducteur ? ». Puis : le plus mauvais cuisinier, le plus radin… et ils se sont dit qu'il fallait aussi des qualités. Les débats duraient des heures, pleins d'anecdotes et de fous rires. Ils ont cherché si un tel jeu existait : non. Alors ils l'ont créé.
 Les frères acceptent d'être cités par leur prénom ; en photo, à voir au cas par cas.
 Les trois frères : Tom (l'aîné), Mathis (le 2e), Oscar (le plus jeune).
-Réponse au « plus mauvais conducteur » : Mathis (selon ses frères). Ne pas évoquer publiquement de points de permis ni d'amendes sans l'accord de Mathis.
+Réponse au « plus mauvais conducteur » : Mathis (selon ses frères). Sur la photo d'enfance : Mathis à gauche, Tom au milieu, Oscar à droite. Ne pas évoquer publiquement de points de permis ni d'amendes sans l'accord de Mathis.
 
 ## Cible
 - 20–35 ans qui organisent des soirées entre potes (apéros, colocs, EVJF/EVG, week-ends).

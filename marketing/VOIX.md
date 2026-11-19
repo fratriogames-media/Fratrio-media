@@ -1,9 +1,10 @@
 # Voix de marque et règles de réponse — @quiestleplusfrance
 
 **Mode des réponses : validation**
-(Valeurs possibles : `validation` = Claude propose dans marketing/reponses.json et Tom valide ; `automatique` = Claude publie seul. Ne passer en automatique que sur instruction de Tom.)
+(Valeurs possibles : `validation` = Claude propose et Tom valide ; `automatique` = Claude publie seul. Ne passer en automatique que sur instruction de Tom.)
 
-Quand Tom dit « go réponses » : passer au statut `valide` toutes les entrées `propose` de marketing/reponses.json (sauf celles qu'il a demandé de modifier ou retirer), les publier tout de suite avec reply_to_comment, puis les marquer `publie`.
+Les réponses proposées ne sont JAMAIS écrites dans ce dépôt public : elles sont dans un brouillon Gmail privé (fratriogames@gmail.com), sujet « FRATRIO · Réponses Instagram à valider ».
+Quand Tom dit « go réponses » : lire ce brouillon, publier avec reply_to_comment chaque réponse dont le commentaire n'a toujours pas de réponse (sauf celles que Tom a demandé de modifier ou retirer), puis supprimer le brouillon.
 
 ## Qui on est
 « Qui est le plus ? » est un jeu d'ambiance édité par FRATRIO, une maison d'édition de jeux de société. Le jeu a été créé par trois frères (FRA-TRIO), à partir d'un débat à table sur « qui est le plus mauvais conducteur » (voir STRATEGIE.md, Histoire de marque) : c'est l'histoire à mettre en avant. Ne JAMAIS dire qu'il a été créé à Caen (c'est faux) ; on peut dire qu'il est en vente à Caen et qu'on y fait des événements.
