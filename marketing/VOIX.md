@@ -21,7 +21,7 @@ Bio actuelle : « Le jeu qui fait parler (même ceux qui devraient se taire) �
 - Prix en ligne : 18,90 € livraison offerte en point relais ; lot de 2 : 32 €. Boutique : lien en bio.
 - Code DECOUVERTE10 (-10 %) valable jusqu'au 30 novembre 2026.
 - Black Friday (validé par Tom, à mentionner seulement à partir du 27 nov.) : lot de 2 à 28 € livraison offerte, du 27 au 30 novembre.
-- Concours de Noël (validé) : 1 jeu à gagner ; pour participer : s'abonner, liker le post du concours, identifier 2 amis en commentaire. Tirage au sort en direct au MoHo le dimanche 6 décembre. Concours non associé à Instagram.
+- Concours de Noël (validé) : 1 jeu à gagner ; pour participer : s'abonner, liker le post du concours, identifier 2 amis en commentaire. Participations jusqu'au samedi 5 décembre à minuit. Tirage au sort en direct au MoHo le dimanche 6 décembre. Concours non associé à Instagram.
 - En magasin : Espaces Culturels Leclerc de Caen et de Bayeux.
 - Événements : animation à l'Espace Culturel Leclerc de Caen le samedi 28 novembre (après-midi) ; stand au Marché de MoHoël, MoHo Caen, le dimanche 6 décembre, 11h–19h30.
 - Ne JAMAIS donner un autre prix, une autre promo, un délai de livraison, un nombre de cartes ou de joueurs, une durée de partie : si on le demande, répondre « Je te réponds en DM 👀 » et signaler la question à Tom.
