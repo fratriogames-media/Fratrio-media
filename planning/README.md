@@ -44,7 +44,9 @@ Rien n'est publié si `"valide"` vaut `false`.
 }
 ```
 
-- `type` : `post` ou `story` (une story n'a pas de légende).
+- `type` : `post`, `story` (une story n'a pas de légende) ou `reel`.
+- Carrousel : `type` `post`, `"format": "carrousel"` et `"images": [...]` (2 à 10 JPEG, dans l'ordre) au lieu de `image`.
+- Reel : `type` `reel`, `"video"` (MP4 9:16, 3 s à 15 min) et `"cover"` (JPEG de couverture) au lieu de `image`.
 - `date` : heure de Paris, au plus tôt à laquelle publier.
 - `statut` : `a_publier`, `publie` ou `erreur` (avec un champ `erreur` qui explique).
 - URL publique d'une image : `https://raw.githubusercontent.com/fratriogames-media/fratrio-media/main/<image>`
