@@ -1,0 +1,18 @@
+{
+  "semaine": "2026-S48",
+  "du": "2026-11-23",
+  "au": "2026-11-29",
+  "valide": true,
+  "publications": [
+    {
+      "id": "s48-01",
+      "type": "post",
+      "format": "carrousel",
+      "date": "2026-11-25T20:50",
+      "images": ["2026-11-25/histoire-01.jpg", "2026-11-25/histoire-02.jpg", "2026-11-25/histoire-03.jpg", "2026-11-25/histoire-04.jpg", "2026-11-25/histoire-05.jpg", "2026-11-25/histoire-06.jpg", "2026-11-25/histoire-07.jpg", "2026-11-25/histoire-08.jpg", "2026-11-25/histoire-09.jpg", "2026-11-25/histoire-10.jpg"],
+      "legende": "Tout est parti d'un débat entre frères… et d'un père qui ne s'en est toujours pas remis. 😅\n\n« Qui est le plus ? », c'est le jeu où tout le monde a un avis sur tout le monde. Fous rires garantis, rancunes possibles.\n\n👇 Et chez toi, qui est le plus susceptible ? Tag-le (s'il ose venir lire).",
+      "statut": "publie",
+      "media_id": "17951715468067808"
+    }
+  ]
+}
