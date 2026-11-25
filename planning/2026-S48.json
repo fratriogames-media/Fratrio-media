@@ -2,7 +2,7 @@
   "semaine": "2026-S48",
   "du": "2026-11-23",
   "au": "2026-11-29",
-  "valide": false,
+  "valide": true,
   "publications": [
     {
       "id": "s48-01",
@@ -94,16 +94,6 @@
       "date": "2026-11-29T11:45",
       "image": "2026-11-29/story-concours-rappel.jpg",
       "legende": null,
-      "statut": "a_publier",
-      "media_id": null
-    },
-    {
-      "id": "s48-09",
-      "type": "reel",
-      "date": "2026-11-29T17:45",
-      "video": "2026-11-29/reel-histoire.mp4",
-      "cover": "2026-11-29/reel-histoire-cover.jpg",
-      "legende": "Une seule carte. 4 jours de silence. 😅\n\nL'histoire vraie de « Qui est le plus ? », le jeu né d'un débat entre trois frères.\n\n👇 Et chez toi, qui est le plus susceptible ? Tag-le.\n\n#jeudesociete #jeudambiance #histoirevraie #freres #ideecadeau",
       "statut": "a_publier",
       "media_id": null
     }
