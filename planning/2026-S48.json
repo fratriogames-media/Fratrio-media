@@ -41,8 +41,9 @@
       "date": "2026-11-26T17:45",
       "image": "2026-11-26/story-leclerc-samedi.jpg",
       "legende": null,
-      "statut": "a_publier",
-      "media_id": null
+      "statut": "publie",
+      "media_id": "18000231777023020",
+      "publie_le": "2026-11-26T17:46"
     },
     {
       "id": "s48-04",
