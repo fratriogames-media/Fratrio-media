@@ -62,8 +62,9 @@
       "date": "2026-11-27T17:45",
       "image": "2026-11-27/story-black-friday.jpg",
       "legende": null,
-      "statut": "a_publier",
-      "media_id": null
+      "statut": "publie",
+      "media_id": "17875214295647959",
+      "publie_le": "2026-11-27T17:47"
     },
     {
       "id": "s48-06",
